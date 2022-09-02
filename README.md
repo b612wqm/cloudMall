@@ -112,23 +112,6 @@ npm run serve
 ```
 
 
-## 写在最后 ##
-因为还是学生，平时最多也是和同学一起开发，并没有参与过真正的企业团队开发，所以应该有很多地方做的不是很好，欢迎各位大佬们给我提一些意见。
-
- 如果有问题，您可以在 Issues 中提问哈。
- 如果您对这个项目感兴趣，请Star支持下，谢谢！
-# License
-    MIT
-
-# 打赏
-如果觉得这个项目对你有帮忙，可以请我喝杯奶茶哈
-
-微信：
-
-<img src="https://github.com/zwStar/vue-meituan/blob/v2.0/screenshots/weChat.jpg" width="275" alt="微信"/>
-支付宝：
-
-<img src="https://github.com/zwStar/vue-meituan/blob/v2.0/screenshots/alipay.jpg" width="275" alt="支付宝"/>
 
 
 
